@@ -11,13 +11,13 @@ appDiv.innerHTML = `<h1>Party Planner</h1>
 </form>
 
 
-<h2>Bank</h2>
+<h2></h2>
 <output></output>
 
-<h2>Odds</h2>
+<h2></h2>
 <output></output>
 
-<h2>Evens</h2>
+<h2></h2>
 <output></output>
 `
 
